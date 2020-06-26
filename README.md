@@ -5,8 +5,8 @@ For testing this algorithms is used data1.arff with relationship money spent and
 ```
 <dependency>
 	<groupId>nz.ac.waikato.cms.weka</groupId>
-		<artifactId>weka-dev</artifactId>
-	<version>3.9.4</version>
+		<artifactId>weka-stable</artifactId>
+	<version>3.8.0</version>
 </dependency>
 ```
 # data1.arff (extract)
